@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lab_1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="add_record">add_record</string>
+    <string name="title_activity_edit_note">EditNoteActivity</string>
+    <string name="DONE_EDIT">done_edit</string>
+    <string name="CANCEL_EDIT">cancel_edit</string>
+    <string name="search_hint">Search</string>
+</resources>
