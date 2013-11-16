@@ -1,5 +1,5 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
-    <item android:id="@+id/cancel" android:title="@string/CANCEL_EDIT" android:showAsAction="ifRoom"></item><item android:id="@+id/done" android:title="@string/DONE_EDIT" android:showAsAction="ifRoom"></item>
+    <item android:id="@+id/cancel" android:title="@string/CANCEL_EDIT" android:showAsAction="ifRoom" android:icon="@android:drawable/ic_menu_close_clear_cancel"></item><item android:id="@+id/done" android:title="@string/DONE_EDIT" android:showAsAction="ifRoom" android:icon="@android:drawable/ic_menu_save"></item>
     
 
 </menu>

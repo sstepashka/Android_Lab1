@@ -11,7 +11,7 @@ public class EditNoteActivity extends Activity {
 
 	private EditText editText;
 	private DataBaseHelper dataBaseHelper;
-	
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
